@@ -1,0 +1,5 @@
+[package]
+name = "kserve"
+version = "0.1.0"
+authors = ["Marian Busoi"]
+edition = "2021"
